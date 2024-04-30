@@ -1,0 +1,5 @@
+1- Hash Tabel open addressing
+2- Longest common Substring	
+3- Longest Repeated Substring 
+4- Union Find
+5-Binary Tree remove element
